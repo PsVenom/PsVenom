@@ -1,6 +1,8 @@
-# Hello there! I am parth and I love to create!
+# Hello there! I am Parth and I love to create!
 
 ## A little bit about me :
+
+I am an Undergraduate researcher at Delhi Technological University. I'm really intrigued by AI/ML, Computer Vision, GANs and robotics. Feel free to reach me out on discord - 
 
 <hr>
 <h2>📝 Statistics: </h2>
@@ -8,9 +10,9 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;89 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;59 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1327 – <a href='https://github.com/feschenko/feschenko'>feschenko</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp – <a href='https://github.com/PsVenom/GPT-discord'>GPT-discord</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp– <a href='https://github.com/PsVenom/QR-code-enhancement-using-SRGANs'>QR code enhancement using SRGANs</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp – <a href='https://github.com/PsVenom/PCOS-a_guide_for_ML_newbies'>PCOS- a guide for ML newbies</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -20,9 +22,9 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;8 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/feschenko/StableViewSynthesis'>StableViewSynthesis</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;59 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;8 – <a href='https://github.com/PsVenom/Aurora'>Aurora</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/PsVenom/PCOS-a_guide_for_ML_newbies'>PCOS- a guide for ML newbies</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;59 – <a href='https://github.com/PsVenom/My-RL-Journey'>My RL Journey</a></h6> 
         </td>
   </tr>
 </table>
