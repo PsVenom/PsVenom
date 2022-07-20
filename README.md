@@ -28,7 +28,6 @@ I am an Undergraduate researcher at Delhi Technological University. I'm really i
         </td>
   </tr>
 </table>
-[![PsVenom's github stats] (https://github-readme-stats.vercel.app/api?username=PsVenom&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <h2>📊 Weekly development breakdown: </h2>
 
 
@@ -41,5 +40,6 @@ Kaggle         27 mins             ░░░░░░░░░░     3.38%
 
 
 <hr>
+[![Parth's github stats](https://github-readme-stats.vercel.app/api?username=PsVenom&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
     
