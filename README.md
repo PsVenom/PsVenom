@@ -2,7 +2,7 @@
 
 ## A little bit about me :
 
-I am an Undergraduate researcher at Delhi Technological University. I'm really intrigued by AI/ML, Computer Vision, GANs and robotics. Feel free to reach me out on discord - 
+I am an Undergraduate researcher at Delhi Technological University. I'm really intrigued by AI/ML, Computer Vision, GANs and robotics. Feel free to reach me out on discord - PS_Venom#6364
 
 ## 📝 Statistics:
 [![Parth's github stats](https://github-readme-stats.vercel.app/api?username=PsVenom&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
