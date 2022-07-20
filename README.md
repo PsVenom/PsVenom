@@ -22,9 +22,9 @@ I am an Undergraduate researcher at Delhi Technological University. I'm really i
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;8 – <a href='https://github.com/PsVenom/Aurora'>Aurora</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/PsVenom/PCOS-a_guide_for_ML_newbies'>PCOS- a guide for ML newbies</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;17&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;59 – <a href='https://github.com/PsVenom/My-RL-Journey'>My RL Journey</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp – <a href='https://github.com/PsVenom/Aurora'>Aurora</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp– <a href='https://github.com/PsVenom/PCOS-a_guide_for_ML_newbies'>PCOS- a guide for ML newbies</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp – <a href='https://github.com/PsVenom/My-RL-Journey'>My RL Journey</a></h6> 
         </td>
   </tr>
 </table>
