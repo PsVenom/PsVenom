@@ -29,14 +29,9 @@ I am an Undergraduate researcher at Delhi Technological University. I'm really i
         </td>
   </tr>
 </table>
-<h2>📊 Weekly development breakdown: </h2>
+<h2>📊 Github metrics breakdown: </h2>
+![Metrics](https://metrics.lecoq.io/PsVenom?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
 
-
-```text
-Python         20 hrs 48 mins      ████████░░     72.41%
-Text           36 mins             ░░░░░░░░░░     2.85%
-Kaggle         27 mins             ░░░░░░░░░░     3.38%
-```
 
 
 
