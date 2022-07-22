@@ -7,9 +7,6 @@ I am an Undergraduate researcher at Delhi Technological University. I'm really i
 ## 📝 Statistics:
 [![Parth's github stats](https://github-readme-stats.vercel.app/api?username=PsVenom&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ## 📊 Github metrics breakdown: 
-
-
-
 ![Metrics](https://metrics.lecoq.io/PsVenom?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FKolkata)
 <hr>
 <table>
